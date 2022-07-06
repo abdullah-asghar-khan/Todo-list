@@ -1,8 +1,8 @@
 const todoCard = ({ description, index }) => {
-    const liEl = document.createElement('li');
-    liEl.classList.add('todo-wrapper');
-    liEl.id = `todo-${index}`;
-    liEl.innerHTML = `
+  const liEl = document.createElement('li');
+  liEl.classList.add('todo-wrapper');
+  liEl.id = `todo-${index}`;
+  liEl.innerHTML = `
         <div class='left-align'>
           <div>
             <input type="checkbox" class='checkbox' id="check-${index}" />
@@ -15,7 +15,7 @@ const todoCard = ({ description, index }) => {
             <ion-icon class='more-icon ionic' name="ellipsis-vertical-outline"></ion-icon>
         </div>
           `;
-    return liEl;
-  };
-  
-  export default todoCard;
+  return liEl;
+};
+
+export default todoCard;
