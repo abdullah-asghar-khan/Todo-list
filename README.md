@@ -9,10 +9,6 @@ This project is a simple to do list app to know how to use,create and learn proj
 - JS
 - ES6
 
-## Live Demo
-
-- [Live Demo](https://abdullah2213565.github.io/Todo-list/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
