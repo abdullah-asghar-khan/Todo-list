@@ -8,6 +8,7 @@ This project is a simple to do list app to know how to use,create and learn proj
 - CSS
 - JS
 - ES6
+- Webpack config
 
 ## Getting Started
 
